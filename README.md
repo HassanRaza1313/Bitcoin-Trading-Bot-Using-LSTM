@@ -163,4 +163,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Hassan Raza - [https://www.linkedin.com/in/hassan-raza-mahmood/](https://www.linkedin.com/in/hassan-raza-mahmood/) - hassanraza999@hotmail.com
 
-Project Link: [https://github.com/HassanRaza1313/Real-Time-Object-Detection-and-Distance-Measurement-Android](https://github.com/HassanRaza1313/Real-Time-Object-Detection-and-Distance-Measurement-Android)
+Project Link: [https://github.com/HassanRaza1313/Bitcoin-Trading-Bot-Using-LSTM](HassanRaza1313/Bitcoin-Trading-Bot-Using-LSTM (github.com))
