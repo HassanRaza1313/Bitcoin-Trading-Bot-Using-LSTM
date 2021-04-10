@@ -118,7 +118,7 @@ Displaying the Candlesticks data loaded from Binance API:
 <img src="images/CandleSticks Data.PNG" alt="Logo" width="900" height="600">
 
 Standardizing the dataset and loading the dataset into a Pandas Dataframe:
-<img src="images/Dataset.PNG" alt="Logo" width="900" height="600">
+<img src="images/Dataset.PNG" alt="Logo" width="1100" height="500">
 
 Tuning the hyperparameters and compiling the training model
 <img src="images/Model.PNG" alt="Logo" width="1000" height="400">
@@ -127,10 +127,10 @@ Tuning the hyperparameters and compiling the training model
 <img src="images/Model.PNG" alt="Logo" width="1000" height="400">
 
 Evaluating the accuracy of the model:
-<img src="images/Accuracy.PNG" alt="Logo" width="1000" height="400">
+<img src="images/Accuracy.PNG" alt="Logo" width="1100" height="500">
 
 Using the trading model to trade real-time on the Binance Platform:
-<img src="images/Trading.PNG" alt="Logo" width="1000" height="400">
+<img src="images/Trading.PNG" alt="Logo" width="1000" height="300">
 
 <!-- LICENSE -->
 ## License
