@@ -91,7 +91,7 @@ First of all, you need a binance account to trade on the platform. Sign up on:
   <img src="images/SignUp.jpg" alt="Logo" width="800" height="400">
 Fill in the required details, do all the necesssary authentication and you are good to go!
 
-After you sign up, you need to create the binance API for your account. In your account settings, go to API Management, label your API, and press Create. 
+After that, Create the Binance API for your account. In your account settings, go to API Management, label your API, and press Create. 
 <img src="images/APIManagement.jpg" alt="Logo" width="800" height="400">
 
 After you complete all verification and create your API, you will get the following screen:
