@@ -88,14 +88,14 @@ First of all, you need a binance account to trade on the platform. Sign up on:
 ```sh
   https://accounts.binance.com/en/register?return_to=aHR0cHM6Ly93d3cuYmluYW5jZS5jb20vZW4=
   ```
-  <img src="images/SignUp.jpg" alt="Logo" width="200" height="400">
+  <img src="images/SignUp.jpg" alt="Logo" width="400" height="400">
 Fill in the required details, do all the necesssary authentication and you are good to go!
 
 After you sign up, you need to create the binance API for your account. In your account settings, go to API Management, label your API, and press Create. 
-<img src="images/APIManagement.jpg" alt="Logo" width="200" height="400">
+<img src="images/APIManagement.jpg" alt="Logo" width="400" height="400">
 
 After you complete all verification and create your API, you will get the following screen:
-<img src="images/APIManagement2.jpg" alt="Logo" width="200" height="400">
+<img src="images/APIManagement2.jpg" alt="Logo" width="400" height="400">
 
 This API Key and Secret Key are the essentials required to use the Binance API in Python. Store them on a safe file (NOTE: THE SECRET KEY IS ONLY DISPLAYED ONCE WHEN THE API
 IS CREATED. STORE IT IN AN EXTERNAL FILE AS IT WILL NOT BE SHOWN AGAIN.)
@@ -115,19 +115,19 @@ Once you install all the dependencies, open the Jupyter Notebook, run the bot an
 <!-- USAGE EXAMPLES -->
 ## Usage
 Displaying the Candlesticks data loaded from Binance API:
-<img src="images/CandleSticks Data.jpg" alt="Logo" width="300" height="600">
+<img src="images/CandleSticks Data.PNG" alt="Logo" width="300" height="600">
 
 Standardizing the dataset and loading the dataset into a Pandas Dataframe:
-<img src="images/Dataset.jpg" alt="Logo" width="300" height="600">
+<img src="images/Dataset.PNG" alt="Logo" width="300" height="600">
 
 Tuning the hyperparameters and compiling the training model
-<img src="images/Model.jpg" alt="Logo" width="300" height="600">
+<img src="images/Model.PNG" alt="Logo" width="300" height="600">
 
 Tuning the hyperparameters and compiling the training model
-<img src="images/Model.jpg" alt="Logo" width="300" height="600">
+<img src="images/Model.PNG" alt="Logo" width="300" height="600">
 
 Evaluating the accuracy of the model:
-<img src="images/Accuracy.jpg" alt="Logo" width="300" height="600">
+<img src="images/Accuracy.PNG" alt="Logo" width="300" height="600">
 
 Using the trading model to trade real-time on the Binance Platform:
 <img src="images/Trading.jpg" alt="Logo" width="300" height="600">
