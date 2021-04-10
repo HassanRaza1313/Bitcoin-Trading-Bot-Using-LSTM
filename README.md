@@ -114,9 +114,23 @@ Once you install all the dependencies, open the Jupyter Notebook, run the bot an
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-  
+Displaying the Candlesticks data loaded from Binance API:
+<img src="images/CandleSticks Data.jpg" alt="Logo" width="300" height="600">
 
+Standardizing the dataset and loading the dataset into a Pandas Dataframe:
+<img src="images/Dataset.jpg" alt="Logo" width="300" height="600">
 
+Tuning the hyperparameters and compiling the training model
+<img src="images/Model.jpg" alt="Logo" width="300" height="600">
+
+Tuning the hyperparameters and compiling the training model
+<img src="images/Model.jpg" alt="Logo" width="300" height="600">
+
+Evaluating the accuracy of the model:
+<img src="images/Accuracy.jpg" alt="Logo" width="300" height="600">
+
+Using the trading model to trade real-time on the Binance Platform:
+<img src="images/Trading.jpg" alt="Logo" width="300" height="600">
 
 <!-- LICENSE -->
 ## License
